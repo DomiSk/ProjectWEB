@@ -37,13 +37,25 @@
     background-color: rgba(82, 5, 5, 0.288);
 }
 
-
 .hero {
     position: relative;
     background-size: cover;
     background-position: center center;
     height: 400px;
     background-image: url(https://nuotraukos.mediakatalogas.lt/rsynced_images/matrix-1735640_1280.jpg);
+}
+
+div.flexbo {
+    display: flex;
+}
+
+div.flexbo div {
+    text-align: center;
+    width: 50%;
+}
+
+div.flexbo div img {
+    border-radius: 50%;
 }
 
 
