@@ -8,22 +8,6 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
 
-    <nav class="nav-extended">
-    <div class="nav-wrapper">
-      <a href="#!" class="brand-logo">Logo</a>
-      <ul class="right hide-on-med-and-down">
-        <li><a>A link</a></li>
-        <li><a>A second link</a></li>
-        <li><a>A third link</a></li>
-      </ul>
-    </div>
-    <div class="nav-content">
-      <span class="nav-title">Title</span>
-      <a class="btn-floating btn-large halfway-fab waves-effect waves-light teal">
-        <i class="material-icons">add</i>
-      </a>
-    </div>
-  </nav>
 
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
@@ -35,4 +19,24 @@
 
 <body>
 
+<nav>
+    <div class="nav-wrapper container">
+      <a href="#!" class="brand-logo">Logo</a>
+      <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+      <ul class="right hide-on-med-and-down">
+        <li><a href="sass.html">Sass</a></li>
+        <li><a href="badges.html">Components</a></li>
+        <li><a href="collapsible.html">Javascript</a></li>
+        <li><a href="mobile.html">Mobile</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <ul class="sidenav" id="mobile-demo">
+    <li><a href="sass.html">Sass</a></li>
+    <li><a href="badges.html">Components</a></li>
+    <li><a href="collapsible.html">Javascript</a></li>
+    <li><a href="mobile.html">Mobile</a></li>
+  </ul>
+ 
     <!-- Čia pasikartojanti visuose puslapiuose viršutinė dalis -->
