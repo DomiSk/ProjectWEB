@@ -2,16 +2,13 @@
 *{
     box-sizing: border-box;
 }
-body {
-    margin: 0;
-}
 
-h1 {    
+.pagr {    
     color: yellowgreen;
     font-size: 50px;
 }
 
-p {
+.pasvyras {
     position: relative;
     color: white;
 }
