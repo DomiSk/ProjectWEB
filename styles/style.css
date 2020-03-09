@@ -65,7 +65,10 @@ div.flexbo div {
 .spalva {
     color: black;
 }
-
+.myflex{
+    display: flex;
+    flex-wrap: wrap;
+}
 
 
 /* Gintautas stiliaus kodas: */
