@@ -24,10 +24,11 @@
                 </h4>
 
                 <p>
+
                     <!-- <form target="_blank" action="https://www.google.com/maps/dir///@54.6818571,25.2358156,12z/data=!4m2!4m1!3e0"> -->
-                        <!-- <input type class="text-colour spalva"  name="search"> -->
+                    <!-- <input type class="text-colour spalva"  name="search"> -->
                     <button onclick="myFunction()">Ieskoti</button>
-                    <input  id="googlemap"  type="text" class="text-colour spalva" >
+                    <input id="googlemap" type="text" class="buttonstyle ">
 
 
                     <script>
@@ -42,7 +43,7 @@
                     </script>
 
 
-                    </form>
+
 
                 </p>
             </div>
@@ -57,7 +58,8 @@
 
                     Keliauk autobusu. </h4>
 
-                <p> <button>Ieškoti kelionės</button></p>
+               
+
 
             </div>
 
@@ -73,7 +75,7 @@
 
                 </h4>
 
-                <p> <button>Ieškoti kelionės</button>
+                <p> <button>Ieškoti kelionės</button> </p>
             </div>
 
 
@@ -86,7 +88,7 @@
                     Keliauk traukiniu.
 
                 </h4>
-                <p> <button>Ieškoti kelionės</button>
+                <p> <button>Ieškoti kelionės</button></p>
 
             </div>
 
@@ -100,7 +102,7 @@
 
                 </h4>
 
-                <p> <button>Ieškoti kelionės</button>
+                <p> <button>Ieškoti kelionės</button></p>
 
             </div>
 
@@ -116,6 +118,9 @@
                 </h4>
 
                 <p> <button>Ieškoti kelionės</button>
+
+                    <input type="text">
+                </p>
 
             </div>
 
