@@ -72,6 +72,13 @@ div.flexbo div img {
     display: flex;
     flex-wrap: wrap;
 }
+div.row p.button input {
+    background-color: white;
+    height:  2rem;
+    width: 50%;
+
+
+}
 
 
 /* Gintautas stiliaus kodas: */
