@@ -26,7 +26,7 @@
                 <p>
                     <form target="_blank" action="https://www.google.com/maps/dir///@54.6818571,25.2358156,12z/data=!4m2!4m1!3e0">
                         <input type class="text-colour spalva" placeholder="Kur keliausite....." name="search">
-                        <button>Ieškoti kelionės</button>
+                        <button>Ieškoti</button>
                     </form>
 
                 </p>
@@ -35,7 +35,7 @@
 
             <div class="center-align col s12 m4">
 
-                <a href="https://www.autobusubilietai.lt/"><i class="large material-icons text"> directions_bus</i></a>
+                <a href="https://www.autobusubilietai.lt/"><i class="spalva large material-icons text"> directions_bus</i></a>
 
 
                 <h4>
@@ -49,7 +49,7 @@
 
             <div class="center-align col s12 m4 ">
 
-                <a href="https://www.velonova.lt/nuoma"><i class="large material-icons text">directions_bike</i></a>
+                <a href="https://www.velonova.lt/nuoma"><i class="spalva large material-icons text">directions_bike</i></a>
 
                 <h4>
 
