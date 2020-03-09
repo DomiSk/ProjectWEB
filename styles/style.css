@@ -51,12 +51,14 @@ div.flexbo {
 
 div.flexbo div {
     text-align: center;
-    width: 50%;
+    width: 46%;
+    justify-content: space-around;
 }
 
 div.flexbo div img {
     border-radius: 50%;
 }
+
 
 
 
