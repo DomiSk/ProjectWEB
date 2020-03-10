@@ -64,6 +64,10 @@ div.flexbo div {
     outline: none;
     color: white;
 }
+.brand-logo img {
+    height: 64px;
+    mix-blend-mode: multiply;
+}
 /* Dominykas stiliaus kodas: */
 div.flexbo div img {
     border-radius: 50%;
