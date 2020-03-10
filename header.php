@@ -20,7 +20,7 @@
 
   <nav>
     <div class="nav-wrapper container">
-      <a href="#!" class="brand-logo">Logo</a>
+      <a class="brand-logo"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNmutn62bm0vn0JuaKN9CB9Sk6VozCPbncjU3zLOVG9ePFuITKGQ&s" alt=""></a>
       <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
       <ul class="right hide-on-med-and-down">
         <li>
