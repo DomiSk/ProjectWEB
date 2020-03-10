@@ -25,8 +25,8 @@
         </div>
         <div class="footer-copyright">
             <div class="container">
-                © Future Copyright Text
-                <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
+                 Copyright by Musu Team @ 2020
+                <a class="grey-text text-lighten-4 right" href="#!"></a>
             </div>
         </div>
     </footer>
