@@ -55,11 +55,31 @@ div.flexbo div {
     justify-content: space-around;
 }
 
+
+/* Dominykas stiliaus kodas: */
 div.flexbo div img {
     border-radius: 50%;
 }
+/* Audrius stiliaus kodas: */
+.fonas{
+    background-color: rgba(141, 144, 148, 0.164);
+
+}
+
+.spalva {
+    color: black;
+}
+.myflex{
+    display: flex;
+    flex-wrap: wrap;
+}
+div.row p.button input {
+    background-color: white;
+    height:  2rem;
+    width: 50%;
 
 
+}
 
 
 
