@@ -12,11 +12,13 @@
                     <h5 class="white-text">Links</h5>
                     <ul>
                         <li><a class="grey-text text-lighten-3"
-                                href="https://www.delfi.lt/">Delfi</a></li>
+                                href="https://www.google.com/">Google</a></li>
                         <li><a class="grey-text text-lighten-3"
-                                href="D:\Programavimas\Web 02-25\2.CSS\index.html">CSS</a></li>
+                                href="https://www.w3schools.com/">w3schools</a></li>
                         <li><a class="grey-text text-lighten-3"
-                                href="D:\Programavimas\Web 02-25\1.HTML\index.html">HTML</a></li>
+                                href="https://css-tricks.com/">css-tricks</a></li>
+                                <li><a class="grey-text text-lighten-3"
+                                href="https://materializecss.com/">materializecss</a></li>
                     </ul>
                 </div>
             </div>

@@ -51,7 +51,8 @@ div.flexbo {
 
 div.flexbo div {
     text-align: center;
-    width: 50%;
+    width: 46%;
+    justify-content: space-around;
 }
 
 
@@ -80,6 +81,12 @@ div.row p.button input {
 
 
 }
+
+
+
+/* Vardas1 stiliaus kodas: */
+
+
 
 
 /* Gintautas stiliaus kodas: */
