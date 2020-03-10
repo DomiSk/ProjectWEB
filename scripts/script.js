@@ -1,26 +1,35 @@
 // Ginto rasliava
-document.addEventListener('DOMContentLoaded', function() {
-    var elems = document.querySelectorAll('.sidenav');
-    var instances = M.Sidenav.init(elems);
+document.addEventListener('DOMContentLoaded', function () {
 
-    var elems = document.querySelectorAll('.collapsible');
-    var instances = M.Collapsible.init(elems);
-  });
+  initHeader();
+  initAnimation();
+  addListeners();
+});
 
-  
-    
- 
-  function myFunction() {
+document.addEventListener('DOMContentLoaded', function () {
+  var elems = document.querySelectorAll('.sidenav');
+  var instances = M.Sidenav.init(elems);
 
-    var inputValue = document.querySelector("#googlemap").value;
+  var elems = document.querySelectorAll('.collapsible');
+  var instances = M.Collapsible.init(elems);
+});
 
 
-    var pavadinimas = inputValue;
-    window.location.href = "https://www.google.com/maps/place/" + pavadinimas;
+
+
+
+
+function myFunction() {
+
+  var inputValue = document.querySelector("#googlemap").value;
+
+
+  var pavadinimas = inputValue;
+  window.location.href = "https://www.google.com/maps/place/" + pavadinimas;
 }
 
-        document.addEventListener('DOMContentLoaded', function() {
-            var elems = document.querySelectorAll('.parallax');
-            var instances = M.Parallax.init(elems);
-          });
-   
+document.addEventListener('DOMContentLoaded', function () {
+  var elems = document.querySelectorAll('.parallax');
+  var instances = M.Parallax.init(elems);
+});
+

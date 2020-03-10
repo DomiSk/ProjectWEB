@@ -18,6 +18,22 @@
 
 <body>
 
+
+<?php if(isset($index))  { ?>
+
+<div class=" demo" style="position: absolute; top: 0; left: 0; width: 100%; z-index: -1">
+   <div class="content">
+      <div id="large-header" class="large-header">
+         <canvas style="position: absolute;" id="demo-canvas"></canvas>
+         
+      </div>
+   </div>
+</div>
+
+<?php } ?>
+
+<div style="position: relative;">
+
   <nav>
     <div class="nav-wrapper container">
       <a class="brand-logo"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNmutn62bm0vn0JuaKN9CB9Sk6VozCPbncjU3zLOVG9ePFuITKGQ&s" alt=""></a>

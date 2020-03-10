@@ -1,7 +1,12 @@
-<?php include "header.php" ?>
+<?php 
+
+$index = true;
+
+include "header.php" ?>
 
 <link rel="stylesheet" href="Styles/style.css">
 <!-- Čia pagrindinio puslapio vidinė dalis -->
+
 
 <div class="hero">
 
@@ -27,7 +32,6 @@
       maiores totam repudiandae quas repellat. Velit, est suscipit?</p>
 
   </div>
-
 </div>
 <div class="container">
   <section class="firsp1">
@@ -97,6 +101,14 @@
   </section>
 </div>
 
+<div class=" demo">
+   <div class="content">
+      <div id="large-header" class="large-header">
+         <canvas style="position: absolute;" id="demo-canvas"></canvas>
+         
+      </div>
+   </div>
+</div>
 
 
 <?php include "footer.php" ?>
