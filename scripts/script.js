@@ -6,15 +6,14 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
  
+  function myFunction() {
 
-        function myFunction() {
-
-            var inputValue = document.querySelector("input").value;
+    var inputValue = document.querySelector("#googlemap").value;
 
 
-            var pavadinimas = inputValue;
-            window.location.href = "https://www.google.com/maps/place/" + pavadinimas;
-        }
+    var pavadinimas = inputValue;
+    window.location.href = "https://www.google.com/maps/place/" + pavadinimas;
+}
 
         document.addEventListener('DOMContentLoaded', function() {
             var elems = document.querySelectorAll('.parallax');
