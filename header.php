@@ -20,12 +20,12 @@
 
   <nav>
     <div class="nav-wrapper container">
-      <a href="#!" class="brand-logo">Logo</a>
+      <a class="brand-logo"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNmutn62bm0vn0JuaKN9CB9Sk6VozCPbncjU3zLOVG9ePFuITKGQ&s" alt=""></a>
       <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
       <ul class="right hide-on-med-and-down">
         <li>
-          <form action="/action_page.php">
-            <input id="search-input" type="text" placeholder="Search.." name="search">
+          <form action="https://www.google.com/search">
+            <input id="search-input" type="text" placeholder="Google search.." name="query">
             <button class="butt" type="submit"><i class="material-icons">search</i></button>
           </form>
         </li>

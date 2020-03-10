@@ -66,11 +66,44 @@ div.flexbo div {
     color: white;
 }
 
+.brand-logo img {
+    height: 64px;
+    mix-blend-mode: multiply;
+}
 /* Dominykas stiliaus kodas: */
 
 div.flexbo div img {
     border-radius: 50%;
 }
+p {
+  line-height: 2rem;
+}
+
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: 100% ;
+  width: auto ;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+  
+
+
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+
+
+    
 
 /* Audrius stiliaus kodas: */
 
@@ -94,6 +127,21 @@ div.row p.button input {
 }
 
 /* Vardas1 stiliaus kodas: */
+div.button input.button-style {
+    background-color: white;
+    height:  3rem;
+    margin-bottom: 0;
+    font-size: 18px;
+    width: 70%;
+}
+
+.mygtukas
+{
+    vertical-align: bottom;
+    height:  3rem; 
+    width: 29%
+    
+}
 
 /* Gintautas stiliaus kodas: */
 
