@@ -89,21 +89,22 @@
             </div>
 
         </div>
-        <div class="button ">
+        <div class="button">
 
-            <button onclick class="mygtukas myFunction()">Kur keliausite?</button>
+            <button onclick="myFunction()" class="mygtukas">Kur keliausite?</button>
             <input id="googlemap" type="text" class="button-style">
 
 
             <script>
-                function myFunction() {
+            //     function myFunction() {
 
-                    var inputValue = document.querySelector("#googlemap").value;
+            //         var inputValue = document.querySelector("#googlemap").value;
 
 
-                    var pavadinimas = inputValue;
-                    window.location.href = "https://www.google.com/maps/place/" + pavadinimas;
-                }
+            //         var pavadinimas = inputValue;
+            //         window.location.href = "https://www.google.com/maps/place/" + pavadinimas;
+            //     }
+            // 
             </script>
 
 
