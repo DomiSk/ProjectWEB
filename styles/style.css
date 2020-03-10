@@ -1,9 +1,10 @@
 /* Bendras stilius: */
-*{
+
+* {
     box-sizing: border-box;
 }
 
-.pagr {    
+.pagr {
     color: yellowgreen;
     font-size: 50px;
 }
@@ -13,13 +14,11 @@
     color: white;
 }
 
-
-
 .header-content {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);    
+    transform: translate(-50%, -50%);
 }
 
 .header-bg {
@@ -52,88 +51,122 @@ div.flexbo {
 
 div.flexbo div {
     text-align: center;
-    width: 46%;    
+    width: 46%;
     margin-bottom: 150px;
 }
+
 #search-input {
     width: auto;
-    }
+}
+
 .butt {
     background: transparent;
     border: none;
     outline: none;
     color: white;
 }
+
 /* Dominykas stiliaus kodas: */
+
 div.flexbo div img {
     border-radius: 50%;
-    
 }
-/* Audrius stiliaus kodas: */
-.fonas{
-    background-color: rgba(141, 144, 148, 0.164);
 
+/* Audrius stiliaus kodas: */
+
+.fonas {
+    background-color: rgba(141, 144, 148, 0.164);
 }
 
 .spalva {
     color: black;
 }
-.myflex{
+
+.myflex {
     display: flex;
     flex-wrap: wrap;
 }
+
 div.row p.button input {
     background-color: white;
-    height:  2rem;
+    height: 2rem;
     width: 50%;
-
-
 }
 
-
-
 /* Vardas1 stiliaus kodas: */
-
-
-
 
 /* Gintautas stiliaus kodas: */
 
 .grid-container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr 1fr;
-    grid-template-areas: "a1 a2 a3" "a4 a5 a6" "a7 a8 a9";
-  }
-  
-  .a1 { grid-area: a1; }
-  
-  .a2 { grid-area: a2; }
-  
-  .a3 { grid-area: a3; }
-  
-  .a4 { grid-area: a4; }
-  
-  .a5 { grid-area: a5; }
-  
-  .a6 { grid-area: a6; }
-  
-  .a7 { grid-area: a7; }
-  
-  .a8 { grid-area: a8; }
-  
-  .a9 { grid-area: a9; }
+    grid-template-rows: auto auto auto auto;
+    grid-template-areas: "a1 a2 a3" "a4 a5 a6" "a7 a8 a9" "a10 a11 a12";
+}
+
+.a1 {
+    grid-area: a1;
+    align-self: end;
+}
+
+.a2 {
+    grid-area: a2;
+    align-self: end;
+}
+
+.a3 {
+    grid-area: a3;
+    align-self: end;
+}
+
+.a4 {
+    grid-area: a4;
+    align-self: start;
+}
+
+.a5 {
+    grid-area: a5;
+    align-self:start;
+}
+
+.a6 {
+    grid-area: a6;
+    align-self: start;
+}
+
+.a7 {
+    grid-area: a7;
+    align-self: start;
+}
+
+.a8 {
+    grid-area: a8;
+    align-self: start;
+}
+
+.a9 {
+    grid-area: a9;
+    align-self: start;
+}
+.a10 {
+    grid-area: a10;
+    align-self: start;
+    
+
+}
+
+.a11 {
+    grid-area: a11;
+    align-self:start;
+}
+
+.a12 {
+    grid-area: a12;
+    align-self: start;
+}
 
 /* Vardas2 stiliaus kodas: */
 
-
-
-
-
 /* Vardas3 stiliaus kodas: */
-
-
-
-
 
 /* Vardas4 stiliaus kodas: */
