@@ -16,4 +16,8 @@ document.addEventListener('DOMContentLoaded', function() {
             window.location.href = "https://www.google.com/maps/place/" + pavadinimas;
         }
 
+        document.addEventListener('DOMContentLoaded', function() {
+            var elems = document.querySelectorAll('.parallax');
+            var instances = M.Parallax.init(elems, options);
+          });
    
