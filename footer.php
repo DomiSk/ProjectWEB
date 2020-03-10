@@ -5,8 +5,8 @@
         <div class="container">
             <div class="row">
                 <div class="col l6 s12">
-                    <h5 class="white-text">Musu paskaitos</h5>
-                    <p class="grey-text text-lighten-4">Cia galima paziuret ka darem per paskaitas.</p>
+                    <h5 class="white-text">Info</h5>
+                    <p class="grey-text text-lighten-4">Informacija saito kurimo parinkta situose saitose</p>
                 </div>
                 <div class="col l4 offset-l2 s12">
                     <h5 class="white-text">Links</h5>
