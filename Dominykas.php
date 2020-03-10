@@ -26,7 +26,8 @@
 
       </div>
     </div>
-    <div class="parallax-container"><img src="images/parallax1.jpg" alt="Baneris-pirmas"></div>
+<div class="parallax-container">
+    <div class="parallax"><img src="images/parallax1.jpg" alt="Parallaxas-pirmas"></div>
   </div>
 
 
@@ -75,7 +76,7 @@
         </div>
       </div>
     </div>
-    <div class="parallax"><img src="images/parallax1.jpg" alt="Baneris-pirmas"></div>
+    <div class="parallax"><img src="images/parallax1.jpg" alt="Parallaxas-pirmas"></div>
   </div>
 
   <div class="container">
@@ -101,12 +102,12 @@
         </div>
       </div>
     </div>
-    <div class="parallax"><img src="images/parallax2.jpg" alt="Baneris-antras"></div>
+    <div class="parallax"><img src="images/parallax1.jpg" alt="Paralaxas-antras"></div>
   </div>
 
   
 
-
+<script src="scripts/script.js"></script>
   
   </body>
 </html>
