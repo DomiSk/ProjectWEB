@@ -24,8 +24,8 @@
       <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
       <ul class="right hide-on-med-and-down">
         <li>
-          <form action="/action_page.php">
-            <input id="search-input" type="text" placeholder="Search.." name="search">
+          <form action="https://www.google.com/search">
+            <input id="search-input" type="text" placeholder="Google search.." name="query">
             <button class="butt" type="submit"><i class="material-icons">search</i></button>
           </form>
         </li>
