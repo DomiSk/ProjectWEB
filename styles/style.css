@@ -72,13 +72,23 @@ div.flexbo div img {
     display: flex;
     flex-wrap: wrap;
 }
-div.row p.button input {
+div.button input.button-style {
     background-color: white;
-    height:  2rem;
-    width: 50%;
-
-
+    height:  3rem;
+    margin-bottom: 0;
+    font-size: 18px;
+    width: 70%;
 }
+
+.mygtukas
+{
+    vertical-align: bottom;
+    height:  3rem; 
+    width: 29%
+    
+}
+
+
 
 
 /* Gintautas stiliaus kodas: */
