@@ -15,7 +15,7 @@
   
       <div class="container">
         <br><br>
-        <h1 class="header center teal-text text-lighten-2">Dominykas Website</h1>
+        <h1 class="header center teal-text text-lighten-2">About Me</h1>
         <div class="row center">
           <h5 class="header col s12 light">Experienced, Motivated, Fun and Amazing Student of the Wonders of Technology!</h5>
         </div>
@@ -85,7 +85,7 @@
       <div class="row">
         <div class="col s12 center">
           <h3><i class="mdi-content-send brown-text"></i></h3>
-          <h4>Contact Us</h4>
+          <h4>Hobbies</h4>
           <p class="left-align light">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque id nunc nec volutpat. Etiam pellentesque tristique arcu, non consequat magna fermentum ac. Cras ut ultricies eros. Maecenas eros justo, ullamcorper a sapien id, viverra ultrices eros. Morbi sem neque, posuere et pretium eget, bibendum sollicitudin lacus. Aliquam eleifend sollicitudin diam, eu mattis nisl maximus sed. Nulla imperdiet semper molestie. Morbi massa odio, condimentum sed ipsum ac, gravida ultrices erat. Nullam eget dignissim mauris, non tristique erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
         </div>
       </div>
