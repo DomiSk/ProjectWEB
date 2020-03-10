@@ -59,8 +59,37 @@ div.flexbo div {
 /* Dominykas stiliaus kodas: */
 div.flexbo div img {
     border-radius: 50%;
-    
 }
+p {
+  line-height: 2rem;
+}
+
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: 100% ;
+  width: 100% ;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+  
+
+
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+
+
+    
+
 /* Audrius stiliaus kodas: */
 .fonas{
     background-color: rgba(141, 144, 148, 0.164);
