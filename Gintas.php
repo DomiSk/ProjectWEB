@@ -59,6 +59,9 @@
                     <div class="collapsible-body">
 
                         <img src="https://picsum.photos/200/200" alt="">
+                   
+
+
 
 
                     </div>
