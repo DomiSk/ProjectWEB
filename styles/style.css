@@ -160,6 +160,9 @@ p {
     display: flex;
     flex-wrap: wrap;
 }
+.naujasflex{
+    align-items: flex-end;
+}
 
 div.row p.button input {
     background-color: white;

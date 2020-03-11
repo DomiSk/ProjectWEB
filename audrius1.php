@@ -119,7 +119,7 @@
 
         <div class="container">
 
-            <div class="row myflex">
+            <div class="row myflex naujasflex">
 
                 <div class="center-align col s6 m4 l2">
                     <a href="https://www.piliakalniai.lt/">
@@ -129,35 +129,35 @@
                     </a>
                 </div>
                 <div class="center-align col s6 m4 l2">
-                    <a href="https://www.15min.lt/pasaulis-kiseneje/naujiena/per-lietuva/10-dvaru-lietuvoje-kurie-praejusiais-metais-keliautojus-domino-labiausiai-642-1090768">
+                    <a href="https://www.lietuvos.dvarai.lt/objektai/piliu-ir-dvaru-zemelapis/">
                         <h6> Pilys ir dvarai</h6>
                         <img class="responsive-img" src="https://picsum.photos/150/102" alt="">
 
                     </a>
                 </div>
                 <div class="center-align col s6 m4 l2">
-                    <a href="https://www.15min.lt/pasaulis-kiseneje/naujiena/per-lietuva/10-dvaru-lietuvoje-kurie-praejusiais-metais-keliautojus-domino-labiausiai-642-1090768">
+                    <a href="https://manogyvenimas.lt/lankytinos-vietos-lietuvoje-apzvalgos-bokstai/">
                         <h6>Apžvalgos bokštai</h6>
                         <img class="responsive-img" src="https://picsum.photos/150/101" alt="">
 
                     </a>
                 </div>
                 <div class="center-align col s6 m4 l2">
-                    <a href="https://www.15min.lt/pasaulis-kiseneje/naujiena/per-lietuva/10-dvaru-lietuvoje-kurie-praejusiais-metais-keliautojus-domino-labiausiai-642-1090768">
+                    <a href="https://www.muziejai.lt/D_bazes/Muziejai_DB/Muziejai_rajonuose.lt.asp">
                         <h6> Muziejai</h6>
                         <img class="responsive-img" src="https://picsum.photos/150/103" alt="">
 
                     </a>
                 </div>
                 <div class="center-align col s6 m4 l2 ">
-                    <a href="https://www.15min.lt/pasaulis-kiseneje/naujiena/per-lietuva/10-dvaru-lietuvoje-kurie-praejusiais-metais-keliautojus-domino-labiausiai-642-1090768">
+                    <a href="https://welovelithuania.com/lietuva/pazintiniai-takai/">
                         <h6> Pažintiniai takai</h6>
                         <img class="responsive-img" src="https://picsum.photos/150/99" alt="">
 
                     </a>
                 </div>
                 <div class="center-align col s6 m4 l2">
-                    <a href="https://www.15min.lt/pasaulis-kiseneje/naujiena/per-lietuva/10-dvaru-lietuvoje-kurie-praejusiais-metais-keliautojus-domino-labiausiai-642-1090768">
+                    <a href="http://100dienu.lt/varom-lietuvon-zemelapis/">
                         <h6> Kitos vietos </h6>
                         <img class="responsive-img" src="https://picsum.photos/149/100" alt="">
 
