@@ -106,10 +106,10 @@
 
     function resize() {
         width = window.innerWidth;
-        height = window.innerHeight;
+        height = document.body.scrollHeight;
         largeHeader.style.height = height+'px';
         canvas.width = width;
-        canvas.height = height;
+        canvas.height = height+300;
     }
 
     // animation

@@ -1,10 +1,4 @@
 // Ginto rasliava
-document.addEventListener('DOMContentLoaded', function () {
-
-  initHeader();
-  initAnimation();
-  addListeners();
-});
 
 
 document.addEventListener('DOMContentLoaded', function () {
@@ -14,10 +8,6 @@ document.addEventListener('DOMContentLoaded', function () {
   var elems = document.querySelectorAll('.collapsible');
   var instances = M.Collapsible.init(elems);
 });
-
-
-
-
 
 
 function myFunction() {
@@ -34,3 +24,11 @@ document.addEventListener('DOMContentLoaded', function () {
   var instances = M.Parallax.init(elems);
 });
 
+
+
+
+window.addEventListener('load', function () {
+  initHeader();
+  initAnimation();
+  addListeners();
+});
