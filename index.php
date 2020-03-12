@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 $index = true;
 
@@ -102,12 +102,12 @@ include "header.php" ?>
 </div>
 
 <div class=" demo">
-   <div class="content">
-      <div id="large-header" class="large-header">
-         <canvas style="position: absolute;" id="demo-canvas"></canvas>
-         
-      </div>
-   </div>
+  <div class="content">
+    <div id="large-header" class="large-header">
+      <canvas style="position: absolute;" id="demo-canvas"></canvas>
+
+    </div>
+  </div>
 </div>
 
 

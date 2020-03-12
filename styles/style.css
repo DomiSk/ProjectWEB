@@ -5,10 +5,13 @@
 }
 
 .pagr {
-    color: yellowgreen;
+    color: black;
     font-size: 50px;
 }
 
+.md{
+    color: white;
+}
 .pasvyras {
     position: relative;
     color: white;
