@@ -41,7 +41,7 @@
             <h2 class="center brown-text"><i class="material-icons">priority_high</i></h2>
             <h5 class="center">Programmer</h5>
 
-            <p class="light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni vel, saepe quas deserunt provident cupiditate totam quo non tempora atque reiciendis. Animi fugit ipsam veniam optio libero nihil. Optio, atque?</p>
+            <p class="light">Knowledge of C# working with Visual Studios. Also basic skills in Java working with Eclipse. Expert of creating programs with a help of console. </p>
           </div>
         </div>
 
@@ -50,7 +50,7 @@
             <h2 class="center brown-text"><i class="material-icons">color_lens</i></h2>
             <h5 class="center">Designer</h5>
 
-            <p class="light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni vel, saepe quas deserunt provident cupiditate totam quo non tempora atque reiciendis. Animi fugit ipsam veniam optio libero nihil. Optio, atque?</p>
+            <p class="light">Creative, fun and adventurous mind. Ready to experiment to find the best solution. Basic skills on photoshop and expert of MS Paint. Can't draw better than a 5 year old but it is all about passion</p>
           </div>
         </div>
 
@@ -59,7 +59,7 @@
             <h2 class="center brown-text"><i class="material-icons">web</i></h2>
             <h5 class="center">Web developer</h5>
 
-            <p class="light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni vel, saepe quas deserunt provident cupiditate totam quo non tempora atque reiciendis. Animi fugit ipsam veniam optio libero nihil. Optio, atque?</p>
+            <p class="light">Basic knowledge of Html, CSS and JavaScript. How do you think this page was created? And I am aslso aware of Databases which you can use with halp of SQL and, also, i have heard of language called php.</p>
           </div>
         </div>
       </div>
@@ -72,7 +72,7 @@
     <div class="section no-pad-bot">
       <div class="container">
         <div class="row center">
-          <h5 class="header col s12 light">Amazing effects</h5>
+          <h5 class="header col s12 light"></h5>
         </div>
       </div>
     </div>
@@ -86,9 +86,23 @@
         <div class="col s12 center">
           <h3><i class="mdi-content-send brown-text"></i></h3>
           <h4>Hobbies</h4>
-          <p class="left-align light">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque id nunc nec volutpat. Etiam pellentesque tristique arcu, non consequat magna fermentum ac. Cras ut ultricies eros. Maecenas eros justo, ullamcorper a sapien id, viverra ultrices eros. Morbi sem neque, posuere et pretium eget, bibendum sollicitudin lacus. Aliquam eleifend sollicitudin diam, eu mattis nisl maximus sed. Nulla imperdiet semper molestie. Morbi massa odio, condimentum sed ipsum ac, gravida ultrices erat. Nullam eget dignissim mauris, non tristique erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
+          <p class="left-align light">My hobbies invole outdoors activities such as football, tennis, running and camping. I also really enjoy reading and learning new things. I am very motivated in expanding my knowledge in every area possible. To sum it all up, most of outdoor activities are a great time to pass time and if the weather is horible you can always learn something new, read a book, watch o movie or create a new amazing app</p>
         </div>
       </div>
+      <ul class="collapsible">
+    <li>
+      <div class="collapsible-header"><i class="material-icons">filter_drama</i>Job experience</div>
+      <div class="collapsible-body"><span>1.5 years - Pub Manager/Sales manager  @ Mitchells & Butlers in UK, London <br> 1 years - Business sales manager @ Telia Lietuva  in LT, Vilnius <br> 1 years - Junior Project manager @ AirCs in LT, Vilnius <br> 0.5 years - Project Manager @ VORAS Consulting in LT, Vilnius</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header"><i class="material-icons">place</i>Professional skills</div>
+      <div class="collapsible-body"><span>Time management, Clear comunication, Team player, Motivated to succeed, passionate to learning, Great problem solving abilities, Ready to take responsibility, Experienced in leading meetings and giving presentations.  <br><br> Languages: <br> Lithuanian - Native <br> English - Fluent <br> Russian - Basic <br> German - Basic</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header"><i class="material-icons">whatshot</i>Education</div>
+      <div class="collapsible-body"><span>School:  Vilnius Uzupis Gymnasium, Lithuania <br> Higher Education: Vilnius Uiversity - Politics, Lithuania <br> Coventry University - Global Business Management, UK <br><br> Extra Education: <br> Agile training courses for beginners <br> Project Management certification <br> Ivestment, risk management and market analysis courses <br> Beginner courses for Programming and Web development </span></div>
+    </li>
+  </ul>
 
     </div>
   </div>
@@ -98,7 +112,7 @@
     <div class="section no-pad-bot">
       <div class="container">
         <div class="row center">
-          <h5 class="header col s12 light">Interactive decisions</h5>
+          <h5 class="header col s12 light"></h5>
         </div>
       </div>
     </div>
