@@ -47,7 +47,6 @@
         </li>
         <li><a href="index.php">Home</a></li>
         <li><a href="https://www.vilniuscoding.lt/">VCS</a></li>
-        <li><a href="mobile.html">Contacts</a></li>
       </ul>
 
     </div>
