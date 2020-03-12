@@ -50,6 +50,7 @@
 div.flexbo {
     display: flex;
     justify-content: space-between;
+    color: whitesmoke;
 }
 
 div.flexbo div {
